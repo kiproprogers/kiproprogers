@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kiproprogers
 - 👀 I’m interested in web development, graphic design, UI/UX designing and mobile application development
 - 🌱 I’m currently learning UI/UX designing
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me by email at kiproprdgrs@gmail.com and mobile: 0707792810
 
 <!---
